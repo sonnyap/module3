@@ -9,7 +9,7 @@ pip install -r requirements.txt
 2. Run the required tests:
 
 ```bash
-pytest pytest test_cart_button.py
+pytest test_cart_button.py
 ```
 
 
